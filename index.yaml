@@ -3,15 +3,32 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-08-20T14:33:59.279363021-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 902e313b7c55c4f46715e382c2897b555f0d29b5e94c6a6245a5f91bf9ba5d6d
+    name: app1
+    urls:
+    - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app1-0.2.0/app1-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-08-20T12:07:25.676368555-05:00"
     description: A Helm chart for Kubernetes
     digest: 52f3b30cffde355c13b260b6abc39e6470159b7e283361b47c8a79573037dcb1
     name: app1
     urls:
     - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app1-0.1.0/app1-0.1.0.tgz
-    - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app1-0.2.0/app1-0.2.0.tgz
     version: 0.1.0
   app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-20T14:33:59.581854891-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 14d0f901baa74afe624c154ce54b1abf15d641dcea6c33bdc21af8e8570c8074
+    name: app2
+    urls:
+    - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app2-0.2.0/app2-0.2.0.tgz
+    version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2022-08-20T12:07:25.830183868-05:00"
@@ -20,9 +37,17 @@ entries:
     name: app2
     urls:
     - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app2-0.1.0/app2-0.1.0.tgz
-    - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app2-0.2.0/app2-0.2.0.tgz
     version: 0.1.0
   app3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-20T14:33:59.768068891-05:00"
+    description: A Helm chart for Kubernetes
+    digest: f4ac9fe43bfcdc5f3e2302815c9bcd7cb3103669bc289aa15c85dbf3e058ed0d
+    name: app3
+    urls:
+    - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app3-0.2.0/app3-0.2.0.tgz
+    version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2022-08-20T12:07:25.985150982-05:00"
@@ -31,6 +56,5 @@ entries:
     name: app3
     urls:
     - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app3-0.1.0/app3-0.1.0.tgz
-    - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app3-0.2.0/app3-0.2.0.tgz
     version: 0.1.0
 generated: "2022-08-20T12:07:25.069319731-05:00"
