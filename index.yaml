@@ -57,4 +57,14 @@ entries:
     urls:
     - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app3-0.1.0/app3-0.1.0.tgz
     version: 0.1.0
+  app4:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-20T14:49:20.240496229-05:00"
+    description: A Helm chart for Kubernetes
+    digest: dcc3ed061fc96df07f0a627e735bbae8d307173f1e886ce6aa48067c4bc49453
+    name: app4
+    urls:
+    - https://github.com/yahercarrillo/helm-charts-dev/releases/download/app4-0.1.0/app4-0.1.0.tgz
+    version: 0.1.0
 generated: "2022-08-20T12:07:25.069319731-05:00"
